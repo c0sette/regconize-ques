@@ -1,0 +1,25 @@
+Answer
+0a
+0s
+gc
+ao
+
+Muitiple choices 52/60
+
+ 
+
+(Choose
+1
+
+answer)
+
+ 
+
+What is defined as Knowledge-Lean Problems?
+
+A. Problems where lots of prior knowledge is usually required to solve them
+B. Problems where little prior knowledge is needed to solve them
+
+C. Problems where solver has not encountered the problem type before
+
+D. Problems where solver has lols of experience with the problem type

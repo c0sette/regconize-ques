@@ -1,0 +1,21 @@
+tiple Choices
+
+Multiple choices 24/60
+
+ 
+
+nswer Consider the following problem:
+(Choose Two cars are stopped at either end of a 100km highway. At the same time, they both start driving towards
+Oa 1 each other. Car A travels at 20km/hr and car B travels at 30km/hr. At the same time as the cars start, a dog
+ansvier) jumps out of Car A and runs towards car B at 50km/hr. When the dog reaches car B, he immediately tums
+ge around and runs back to car A. He repeats this until the cars collide.
+
+If the dog stops running as soon as the cars meet, how far has he run?
+Use the equation: speed = distance/lime.
+
+Refer to lesson 2.1b
+
+Is this an example of:
+
+A. An ill-defined problem
+B. A well-defined problem

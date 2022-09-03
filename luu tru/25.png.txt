@@ -1,0 +1,14 @@
+Muttiple Choices
+
+ 
+
+Mutltiple choices 25/60
+Answer Some words lecturers might use to indicate an analytical task except for:
+(Choose
+0a 1 A. Discuss
+ansveer)
+Os B. Criticize
+ac C. Examine
+go D. Evaluate
+DE E. List
+>
